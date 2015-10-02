@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.T1.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Tugas 1.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\acer\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
